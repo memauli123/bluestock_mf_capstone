@@ -1,3 +1,7 @@
+"""
+Downloads and ingests raw mutual fund datasets for further processing.
+"""
+
 from pathlib import Path
 import pandas as pd
 

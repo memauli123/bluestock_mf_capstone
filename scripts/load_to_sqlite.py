@@ -1,3 +1,6 @@
+"""
+Loads cleaned datasets into the SQLite database.
+"""
 import pandas as pd
 from pathlib import Path
 from sqlalchemy import create_engine

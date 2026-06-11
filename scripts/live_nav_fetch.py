@@ -1,3 +1,7 @@
+"""
+Fetches latest NAV data from the mutual fund API.
+"""
+
 import requests
 import pandas as pd
 from pathlib import Path

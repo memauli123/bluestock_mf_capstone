@@ -1,3 +1,7 @@
+"""
+Simple mutual fund recommendation system based on risk profile and Sharpe Ratio.
+"""
+
 import pandas as pd
 
 scorecard = pd.read_csv("reports/day4_fund_scorecard.csv")

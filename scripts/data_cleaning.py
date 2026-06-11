@@ -1,3 +1,7 @@
+"""
+Cleans, validates, and transforms raw mutual fund datasets.
+"""
+
 import pandas as pd
 from pathlib import Path
 

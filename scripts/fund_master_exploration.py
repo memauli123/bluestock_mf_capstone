@@ -1,3 +1,7 @@
+"""
+Exploratory analysis of the fund master dataset.
+"""
+
 from pathlib import Path
 import pandas as pd
 

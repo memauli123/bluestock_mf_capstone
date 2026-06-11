@@ -1,3 +1,6 @@
+"""
+Performs validation checks on AMFI mutual fund data.
+"""
 from pathlib import Path
 import pandas as pd
 
